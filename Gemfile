@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'hipchat-api'
-gem 'hipchat'
+gem 'dotenv'
 gem 'json'
 gem 'hashie'
-gem 'dotenv'
+gem 'hipchat-api'
+gem 'hipchat'
 
