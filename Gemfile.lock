@@ -1,9 +1,9 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    dotenv (2.0.1)
+    dotenv (2.0.2)
     hashie (3.4.2)
-    hipchat (1.5.1)
+    hipchat (1.5.2)
       httparty
       mimemagic
     hipchat-api (1.0.6)
@@ -26,4 +26,4 @@ DEPENDENCIES
   json
 
 BUNDLED WITH
-   1.10.3
+   1.10.5
